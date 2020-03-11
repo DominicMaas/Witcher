@@ -79,3 +79,8 @@ h1 span {
     transform: scale(0.9);
   }
 }
+
+.center-dammit {
+  text-align: center;
+  margin-top: 180px;
+}
